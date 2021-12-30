@@ -1,0 +1,13 @@
+http: 
+  listener: 
+    port: "0.0.0.0"
+    host: "localhost"
+    path: "/getRoutes"
+    
+db:
+  mysql:
+    host: "localhost"
+    port: "3306"
+    user: "root"
+    password: "Venkat001@"
+    database: "database" 
